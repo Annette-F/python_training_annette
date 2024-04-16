@@ -1,1 +1,1 @@
-# python_training_annette
+# Repository for Python training from Annette
